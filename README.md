@@ -1,9 +1,9 @@
 # 👨‍💻 S Hitesh Borha
 
-### 🔐 Cybersecurity Engineer | Aspiring GRC Analyst | Risk Management | ISO 27001 | Security Compliance | ⚡ Problem Solver
+### Cybersecurity Engineer | Aspiring GRC Analyst | Risk Management | ISO 27001 | Security Compliance | Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;React+Developer;ML+Security+Engineer;Always+Learning...&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;Security+Compliance;Aspiring+GRC+Analyst;Always+Learning...&center=true&width=500&height=45">
 </p>
 
 ---
