@@ -32,7 +32,7 @@ I am transitioning from a technical background into **risk management and securi
 * Applied risk scoring (Impact × Likelihood)
 * Included supply chain and data exposure risks
 
-👉 View Project: ([Add your repo link here](https://github.com/H1t3X/GRC-Risk-Assessment.git))
+👉 View Project: ([repo link here](https://github.com/H1t3X/GRC-Risk-Assessment.git))
 
 ---
 
